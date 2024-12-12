@@ -1,4 +1,4 @@
-# Telegram Mini App Stars Payment Implementation
+# Telegram Mini App (Telegram web app) with Stars Payment Implementation
 
 This project implements Telegram mini-app payment functionality using `twa-dev` and the `node-telegram-web-api`. The client-side and server-side are both required for full functionality.
 
