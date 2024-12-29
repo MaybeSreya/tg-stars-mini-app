@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 require("dotenv").config();
 
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_TOKEN;
+const TELEGRAM_BOT_TOKEN = '7813532796:AAGKJmp7HPx45Ww4DV3zfqjlinZpp8ly_yQ';
 const bot = new TelegramBot(TELEGRAM_BOT_TOKEN);
 //Map to track payments
 const paidUsers = new Map();
